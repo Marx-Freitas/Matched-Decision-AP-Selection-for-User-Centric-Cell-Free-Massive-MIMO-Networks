@@ -8,4 +8,4 @@ Author Keywords: AP selection , cell-free massive MIMO networks , matched-decisi
 Published in: IEEE Transactions on Vehicular Technology ( Volume: 72, Issue: 5, May 2023)
 
 Run the file "main.m" and then study the code from there ;)
-I hope you can do better than me! 
+I hope you can do better than I! 
