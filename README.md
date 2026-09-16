@@ -1,7 +1,5 @@
 # Matched-Decision AP Selection for User-Centric Cell-Free Massive MIMO Networks
-MATLAB code for the paper “Matched-Decision AP Selection for User-Centric Cell-Free Massive MIMO Networks.” DOI: https://doi.org/10.1109/TVT.2023.3235980
-
-Autors: Marx M. M. Freitas and Daynara Souza
+This Matlab code was produced by Marx M. M. Freitas and Daynara Souza. It refers to the following publication: M. Freitas et al., "Matched-Decision AP Selection for User-Centric Cell-Free Massive MIMO Networks," in IEEE Transactions on Vehicular Technology, vol. 72, no. 5, pp. 6375-6391, May 2023, doi: 10.1109/TVT.2023.3235980.
 
 IEEE Keywords: Scalability, System performance, Resource management, Massive MIMO, Fading channels, Antennas, Complexity theory
 Author Keywords: AP selection , cell-free massive MIMO networks , matched-decision , scalability , fine-tuning algorithms
